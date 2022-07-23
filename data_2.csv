@@ -1,0 +1,98 @@
+Name,Radius,Mass,Distance
+Sun,1,1,0.000015813
+Sirius,1.71,2.1,0008.6
+Canopus,71,15,0310
+Alpha Centauri,1.2,1.1,0004.4
+Arcturus,26,1.1,0037
+Vega,2.7,2.2,0025
+Capella,12,2.6,0043
+Rigel,78.9,23,0860
+Procyon,1.9,1.5,0011.4
+Betelgeuse,950,20,0640[1]
+Achernar,9.3,6.7,0144
+Hadar,8.6,10.5,0390
+Altair,1.8,1.8,0017
+Acrux,8.9,18,0320
+Aldebaran,44,1.5,0065
+Antares,680,12,0600
+Spica,7.47,11.43,0260
+Pollux,8.8,1.9,0034
+Fomalhaut,1.8,1.9,0025
+Deneb,203,19,"2,600"
+Mimosa,8.4,16,0350
+Regulus,3.1,3.8,0077
+Adhara,14,12.5,0430
+Shaula,8.8,14.5,0700
+Castor,2.4,2.8,0052
+Gacrux,84,1.5,0088
+Bellatrix,5.8,8.6,0240
+Elnath,4.2,5.0,0130
+Miaplacidus,6.8,3.5,0110
+Alnilam,42,32,"2,000"
+Gamma Velorum,6,9.0,"01,100"
+Alnair,3.4,4.0,0101
+Alioth,4.2,2.9,0081
+Alnitak,20,33,01050
+Dubhe,30,4.25,0120
+Mirfak,68,8.5,0590
+Wezen,200,17,"1,600"
+Sargas,26,5.7,0270
+Kaus Australis,6.8,3.5,0140
+Avior,130,9.0,0630
+Alkaid,3.4,6.1,0104
+Menkalinan,2.77,2.39,081
+Atria,92,7,0390
+Alhena,3.3,2.8,0109
+Peacock,4.8,5.9,0180
+Alsephina[2],2.9,2.4,0080
+Mirzam,10,13.5,0500
+Polaris,39,5.4,0430
+Alphard,50,3.0,0180
+Mintaka,16.5,24,01200
+Scheat,95,2.1,0196
+Almaaz,140,15,0653
+Rasalgethi,280,2.8,0360
+Tau Ceti,0.893,0.783,011.9
+Delta Pavonis,1.22,0.991,019.92
+Ran,0.74,0.82,010.48
+V382 Carinae,485,20,"08,900"
+Eta Carinae,60–881,100,"07,500"
+Delta Cephei,44.5,4.5,0887
+Mu Cephei,972,19.2,"06,000"
+Titawin,1.48,1.27,044.25
+Rho Cassiopeiae,636-981,22,"08,154"
+P Cygni,76,30,"05,545"
+La Superba,129 - 342,,"01,000"
+VV Cephei,"516 - 1,050",18.2,"04,900"
+61 Cygni,0.665,0.7,011.41
+R Doradus,298,0.7 - 1.0,0178
+Polaris Australis,3.74,1.59,0281
+R Coronae Borealis,85,0.85,"04,566"
+54 Piscium,0.94,0.76,036.1
+Mira,370,1.2,0300
+RW Cephei,"1,158",13.9,"014,000"
+Lacaille 8760,0.51,0.6,012.87
+V838 Monocerotis,380 - 750,?,"019,896"
+HD 140283,1.4,?,0190
+II Pegasi,3.4,0.8,0130
+VY Canis Majoris,"1,420",17,"03,900"
+Pistol Star,320,100,"025,000"
+S Doradus,380,24,"0169,000"
+UY Scuti,755,7–10,"05,100"
+Barnard's Star,0.20,0.14,05.98
+Luhman 16,?,0.04,06.52
+Proxima Centauri,0.15,0.12,04.25
+KIC 8462852,1.58,1.43,"01,470"
+R136a1,32,290,"0163,000"
+Melnick 42,21.1,189,"0163,000"
+WR 102,0.39,19,"018,134"
+VFTS 352,14.47,57.48,"0164,000"
+YBP 1194,0.99,1.01,"02,772"
+Gliese 1214,0.21,0.16,047.5
+NML Cygni,"1,640 - 2,770",50,"05,251"
+VB 10,0.10,0.075,018.72
+WOH G64,"1,540 - 1,730",<20,"0163,000"
+TRAPPIST-1,0.12,0.089,039.6
+2MASS J0523-1403,0.086,0.07,040.3
+WISE 0855−0714,?,0.003,07.27
+Icarus,?,33,"014,400,000,000"
